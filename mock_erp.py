@@ -53,6 +53,166 @@ invoices = {
         "line_items": [
             {"product": "Server Equipment", "quantity": 3, "unit_price": 15000.00}
         ]
+    },
+    'INV-2025-004': {
+        'id': 'INV-2025-004',
+        'customer_account': 'ACC-747335152',
+        'amount': 8000,
+        'status': 'pending',
+        'due_date': '2025-06-22',
+        'issue_date': '2025-05-23',
+        'description': 'Software licensing - Q1 2025',
+        'payment_terms': 'NET30',
+        'paid_amount': 0.0,
+        'last_payment_date': None,
+        'last_payment_amount': 0.0,
+        'line_items': [
+            {'product': 'Enterprise License', 'quantity': 8, 'unit_price': 1000}
+            ]
+    },
+    'INV-2025-005': {
+        'id': 'INV-2025-005',
+        'customer_account': 'ACC-947762119',
+        'amount': 12000,
+        'status': 'pending',
+        'due_date': '2025-02-20',
+        'issue_date': '2025-01-21',
+        'description': 'Software licensing - Q3 2025',
+        'payment_terms': 'NET30',
+        'paid_amount': 0.0,
+        'last_payment_date': None,
+        'last_payment_amount': 0.0,
+        'line_items': [
+            {'product': 'Enterprise License','quantity': 4, 'unit_price': 3000}
+            ]
+    },
+    'INV-2025-006': {
+        'id': 'INV-2025-006',
+        'customer_account': 'ACC-224463713',
+        'amount': 20000,
+        'status': 'pending',
+        'due_date': '2025-03-09',
+        'issue_date': '2025-02-07',
+        'description': 'Software licensing - Q4 2025',
+        'payment_terms': 'NET30',
+        'paid_amount': 0.0,
+        'last_payment_date': None,
+        'last_payment_amount': 0.0,
+        'line_items': [
+            {'product': 'Enterprise License', 'quantity': 8, 'unit_price': 2500}
+        ]
+    },
+    'INV-2025-007': {
+        'id': 'INV-2025-007',
+        'customer_account': 'ACC-292633378',
+        'amount': 13500,
+        'status': 'pending',
+        'due_date': '2025-06-12',
+        'issue_date': '2025-05-13',
+        'description': 'Software licensing - Q3 2025',
+        'payment_terms': 'NET30',
+        'paid_amount': 0.0,
+        'last_payment_date': None,
+        'last_payment_amount': 0.0,
+        'line_items': [
+            {'product': 'Enterprise License', 'quantity': 9, 'unit_price': 1500}
+        ]
+    },
+    'INV-2025-008': {
+        'id': 'INV-2025-008',
+        'customer_account': 'ACC-251282710',
+        'amount': 17500,
+        'status': 'pending',
+        'due_date': '2025-06-02',
+        'issue_date': '2025-05-03',
+        'description': 'Software licensing - Q1 2025',
+        'payment_terms': 'NET30',
+        'paid_amount': 0.0,
+        'last_payment_date': None,
+        'last_payment_amount': 0.0,
+        'line_items': [
+            {'product': 'Enterprise License', 'quantity': 7, 'unit_price': 2500}
+        ]
+    },
+    'INV-2025-009': {
+        'id': 'INV-2025-009',
+        'customer_account': 'ACC-405304433',
+        'amount': 12500,
+        'status': 'pending',
+        'due_date': '2025-02-20',
+        'issue_date': '2025-01-21',
+        'description': 'Software licensing - Q4 2025',
+        'payment_terms': 'NET30',
+        'paid_amount': 0.0,
+        'last_payment_date': None,
+        'last_payment_amount': 0.0,
+        'line_items': [
+            {'product': 'Enterprise License', 'quantity': 5, 'unit_price': 2500}
+        ]
+    },
+    'INV-2025-010': {
+        'id': 'INV-2025-010',
+        'customer_account': 'ACC-344234870',
+        'amount': 24000,
+        'status': 'pending',
+        'due_date': '2025-02-21',
+        'issue_date': '2025-01-22',
+        'description': 'Software licensing - Q2 2025',
+        'payment_terms': 'NET30',
+        'paid_amount': 0.0,
+        'last_payment_date': None,
+        'last_payment_amount': 0.0,
+        'line_items': [
+            {'product': 'Enterprise License', 'quantity': 8, 'unit_price': 3000}
+        ]
+    },
+    'INV-2025-011': {
+        'id': 'INV-2025-011',
+        'customer_account': 'ACC-839584586',
+        'amount': 24000,
+        'status': 'pending',
+        'due_date': '2025-02-27',
+        'issue_date': '2025-01-28',
+        'description': 'Software licensing - Q4 2025',
+        'payment_terms': 'NET30',
+        'paid_amount': 0.0,
+        'last_payment_date': None,
+        'last_payment_amount': 0.0,
+        'line_items': [
+            {'product': 'Enterprise License', 'quantity': 8, 'unit_price': 3000}
+        ]
+    },
+    'INV-2025-012': {
+        'id': 'INV-2025-012',
+        'customer_account': 'ACC-256402142',
+        'amount': 12000,
+        'status': 'pending',
+        'due_date': '2025-06-28',
+        'issue_date': '2025-05-29',
+        'description': 'Software licensing - Q2 2025',
+        'payment_terms': 'NET30',
+        'paid_amount': 0.0,
+        'last_payment_date': None,
+        'last_payment_amount': 0.0,
+        'line_items': [
+            {'product': 'Enterprise License', 'quantity': 4, 'unit_price': 3000}
+        ]
+    },
+    'INV-2025-013': {
+        'id': 'INV-2025-013',
+        'customer_account': 'ACC-476568423',
+        'amount': 20000,
+        'status': 'pending',
+        'due_date': '2025-05-12',
+        'issue_date': '2025-04-12',
+        'description': 'Software licensing - Q2 2025',
+        'payment_terms': 'NET30',
+        'paid_amount': 0.0,
+        'last_payment_date': None,
+        'last_payment_amount': 0.0,
+        'line_items': [
+            {'product': 'Enterprise License', 'quantity': 8, 'unit_price': 2500}
+        ]
     }
 }
 

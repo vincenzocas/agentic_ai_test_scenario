@@ -44,7 +44,138 @@ customers = {
         "created_date": "2023-11-10",
         "last_payment_date": None,
         "last_payment_amount": 0.00
+    },
+    'cust_004':{
+        'id': 'cust_004',
+        'name': 'Customer 4 Inc.',
+        'email': 'contact5@customer4.com',
+        'phone': '+1-555-1001',
+        'account_number': 'ACC-747335152',
+        'status': 'active',
+        'credit_limit': 46090.56,
+        'current_balance': 8000.0,
+        'created_date': '2024-09-27',
+        'last_payment_date': None,
+        'last_payment_amount': 0.0
+    },
+    'cust_005': {
+      'id': 'cust_005',
+        'name': 'Customer 5 Inc.',
+        'email': 'contact5@customer5.com',
+        'phone': '+1-555-1002',
+        'account_number': 'ACC-947762119',
+        'status': 'active',
+        'credit_limit': 69436.61,
+        'current_balance': 12000.0,
+        'created_date': '2024-07-23',
+        'last_payment_date': None,
+        'last_payment_amount': 0.0
+    },
+    'cust_006': {
+        'id': 'cust_006',
+        'name': 'Customer 6 Inc.',
+        'email': 'contact6@customer6.com',
+        'phone': '+1-555-1003',
+        'account_number': 'ACC-224463713',
+        'status': 'active',
+        'credit_limit': 60375.8,
+        'current_balance': 20000.0,
+        'created_date': '2024-08-15',
+        'last_payment_date': None,
+        'last_payment_amount': 0.0
+    },
+    'cust_007': {
+        'id': 'cust_007',
+        'name': 'Customer 7 Inc.',
+        'email': 'contact7@customer7.com',
+        'phone': '+1-555-1004',
+        'account_number': 'ACC-292633378',
+        'status': 'active',
+        'credit_limit': 32527.73,
+        'current_balance': 13500.0,
+        'created_date': '2023-08-29',
+        'last_payment_date': None,
+        'last_payment_amount': 0.0
+    },
+    'cust_008': {
+        'id': 'cust_008',
+        'name': 'Customer 8 Inc.',
+        'email': 'contact8@customer8.com',
+        'phone': '+1-555-1005',
+        'account_number': 'ACC-251282710',
+        'status': 'active',
+        'credit_limit': 38137.81,
+        'current_balance': 17500.0,
+        'created_date': '2023-01-02',
+        'last_payment_date': None,
+        'last_payment_amount': 0.0
+    },
+    'cust_009': {
+        'id': 'cust_009',
+        'name': 'Customer 9 Inc.',
+        'email': 'contact9@customer9.com',
+        'phone': '+1-555-1006',
+        'account_number': 'ACC-405304433',
+        'status': 'active',
+        'credit_limit': 95166.53,
+        'current_balance': 12500.0,
+        'created_date': '2024-11-26',
+        'last_payment_date': None,
+        'last_payment_amount': 0.0
+    },
+    'cust_010': {
+        'id': 'cust_010',
+        'name': 'Customer 10 Inc.',
+        'email': 'contact10@customer10.com',
+        'phone': '+1-555-1007',
+        'account_number': 'ACC-344234870',
+        'status': 'active',
+        'credit_limit': 98397.49,
+        'current_balance': 24000.0,
+        'created_date': '2023-09-17',
+        'last_payment_date': None,
+        'last_payment_amount': 0.0
+    },
+    'cust_011': {
+        'id': 'cust_011',
+        'name': 'Customer 11 Inc.',
+        'email': 'contact11@customer11.com',
+        'phone': '+1-555-1008',
+        'account_number': 'ACC-839584586',
+        'status': 'active',
+        'credit_limit': 37436.88,
+        'current_balance': 24000.0,
+        'created_date': '2024-05-26',
+        'last_payment_date': None,
+        'last_payment_amount': 0.0
+    },
+    'cust_012': {
+        'id': 'cust_012',
+        'name': 'Customer 12 Inc.',
+        'email': 'contact12@customer12.com',
+        'phone': '+1-555-1009',
+        'account_number': 'ACC-256402142',
+        'status': 'active',
+        'credit_limit': 80447.62,
+        'current_balance': 12000.0,
+        'created_date': '2024-07-31',
+        'last_payment_date': None,
+        'last_payment_amount': 0.0
+    },
+    'cust_013': {
+        'id': 'cust_013',
+        'name': 'Customer 13 Inc.',
+        'email': 'contact13@customer13.com',
+        'phone': '+1-555-1010',
+        'account_number': 'ACC-476568423',
+        'status': 'active',
+        'credit_limit': 32232.82,
+        'current_balance': 20000.0,
+        'created_date': '2024-01-09',
+        'last_payment_date': None,
+        'last_payment_amount': 0.0
     }
+    
 }
 
 transactions = []
